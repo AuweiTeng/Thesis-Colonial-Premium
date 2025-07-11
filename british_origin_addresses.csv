@@ -1,0 +1,230 @@
+Street_Address,British_Origin,Origin_Reference
+1 AKYAB ROAD,1,Akyab (former British colonial name for Sittwe Myanmar)
+1 ALEXANDRA VIEW,1,Queen Alexandra (wife of King Edward VII)
+1 AMBER GARDENS,0,
+1 AMBER ROAD,0,
+1 ANG MO KIO STREET 66,0,
+9E HILLCREST ROAD,0,
+9G YUAN CHING ROAD,0,
+9L SURIN AVENUE,0,
+9Q HILLCREST ROAD,0,
+C-1 HOLLAND PARK,1,Holland (British colonial territory reference)
+NOVENA MRT STATION,0,
+1 VICTORIA STREET,1,Queen Victoria
+1 RAFFLES PLACE,1,Sir Stamford Raffles (British colonial administrator)
+1 ORCHARD ROAD,1,British colonial plantation area
+1 TANGLIN ROAD,1,British colonial administrative area
+1 BUKIT TIMAH ROAD,0,
+1 SERANGOON ROAD,0,
+1 BOAT QUAY,0,
+1 CLARKE QUAY,1,Sir Andrew Clarke (British colonial governor)
+1 MARINA BAY,0,
+1 CHINATOWN,0,
+1 LITTLE INDIA,0,
+1 KAMPONG GLAM,0,
+1 TANJONG PAGAR,0,
+1 NEWTON CIRCUS,1,Newton (British scientist reference)
+1 SOMERSET ROAD,1,Somerset (British county)
+1 SCOTTS ROAD,1,Captain Robert Scott (British naval officer)
+1 OXLEY ROAD,1,Captain Thomas Oxley (British colonial surveyor)
+1 COLEMAN STREET,1,George Drumgoole Coleman (British colonial architect)
+1 STAMFORD ROAD,1,Sir Stamford Raffles
+1 BRAS BASAH ROAD,0,
+1 BEACH ROAD,0,
+1 NORTH BRIDGE ROAD,0,
+1 SOUTH BRIDGE ROAD,0,
+1 HIGH STREET,1,Common British street name
+1 HILL STREET,1,Common British street name
+1 CHURCH STREET,1,Common British street name
+1 CROSS STREET,1,Common British street name
+1 MIDDLE ROAD,1,Common British street name
+1 ARAB STREET,0,
+1 HAJI LANE,0,
+1 SULTAN GATE,0,
+1 MUSCAT STREET,0,
+1 BAGHDAD STREET,0,
+1 KANDAHAR STREET,0,
+1 BUSSORAH STREET,0,
+1 MARTIN ROAD,1,British personal name
+1 ANDERSON ROAD,1,British personal name
+1 THOMSON ROAD,1,British personal name
+1 MACKENZIE ROAD,1,British personal name
+1 CAMPBELL LANE,1,British personal name
+1 DHOBY GHAUT,0,
+1 BENCOOLEN STREET,0,
+1 WATERLOO STREET,1,Waterloo (British victory)
+1 QUEEN STREET,1,British royal reference
+1 KING STREET,1,British royal reference
+1 PRINCE STREET,1,British royal reference
+1 DUKE STREET,1,British noble title
+1 EARL STREET,1,British noble title
+1 REGENT STREET,1,British royal reference
+1 IMPERIAL LANE,1,British imperial reference
+1 COLONIAL DRIVE,1,British colonial reference
+1 EMPIRE ROAD,1,British empire reference
+1 BRITANNIA ROAD,1,Britannia (British symbol)
+1 WINDSOR PARK,1,Windsor (British royal residence)
+1 BUCKINGHAM GATE,1,Buckingham (British royal palace)
+1 WESTMINSTER AVENUE,1,Westminster (British government district)
+1 CAMBRIDGE ROAD,1,Cambridge (British university city)
+1 OXFORD STREET,1,Oxford (British university city)
+1 LONDON STREET,1,London (British capital)
+1 MANCHESTER ROAD,1,Manchester (British city)
+1 LIVERPOOL STREET,1,Liverpool (British city)
+1 BIRMINGHAM LANE,1,Birmingham (British city)
+1 BRISTOL ROAD,1,Bristol (British city)
+1 LEEDS STREET,1,Leeds (British city)
+1 SHEFFIELD ROAD,1,Sheffield (British city)
+1 NEWCASTLE AVENUE,1,Newcastle (British city)
+1 BRADFORD STREET,1,Bradford (British city)
+1 BRIGHTON ROAD,1,Brighton (British city)
+1 DOVER ROAD,1,Dover (British port city)
+1 PLYMOUTH ROAD,1,Plymouth (British city)
+1 KENT ROAD,1,Kent (British county)
+1 SURREY ROAD,1,Surrey (British county)
+1 ESSEX ROAD,1,Essex (British county)
+1 DEVON ROAD,1,Devon (British county)
+1 CORNWALL ROAD,1,Cornwall (British county)
+1 YORKSHIRE ROAD,1,Yorkshire (British county)
+1 LANCASHIRE ROAD,1,Lancashire (British county)
+1 CHESHIRE ROAD,1,Cheshire (British county)
+1 NORFOLK ROAD,1,Norfolk (British county)
+1 SUFFOLK ROAD,1,Suffolk (British county)
+1 GLOUCESTER ROAD,1,Gloucester (British city)
+1 WORCESTER ROAD,1,Worcester (British city)
+1 WARWICK ROAD,1,Warwick (British city)
+1 LEICESTER ROAD,1,Leicester (British city)
+1 NOTTINGHAM ROAD,1,Nottingham (British city)
+1 DERBY ROAD,1,Derby (British city)
+1 CHESTER ROAD,1,Chester (British city)
+1 BATH ROAD,1,Bath (British city)
+1 SALISBURY ROAD,1,Salisbury (British city)
+1 WINCHESTER ROAD,1,Winchester (British city)
+1 CANTERBURY ROAD,1,Canterbury (British city)
+1 RICHMOND ROAD,1,Richmond (British royal borough)
+1 KENSINGTON ROAD,1,Kensington (British royal borough)
+1 CHELSEA ROAD,1,Chelsea (British district)
+1 MAYFAIR ROAD,1,Mayfair (British district)
+1 BELGRAVIA ROAD,1,Belgravia (British district)
+1 PADDINGTON ROAD,1,Paddington (British district)
+1 HAMPSTEAD ROAD,1,Hampstead (British district)
+1 GREENWICH ROAD,1,Greenwich (British district)
+1 BLACKFRIARS ROAD,1,Blackfriars (British district)
+1 WHITEHALL ROAD,1,Whitehall (British government district)
+1 TRAFALGAR ROAD,1,Trafalgar (British naval victory)
+1 NELSON STREET,1,Admiral Nelson (British naval hero)
+1 WELLINGTON ROAD,1,Duke of Wellington (British military leader)
+1 CHURCHILL ROAD,1,Winston Churchill (British Prime Minister)
+1 CROMWELL ROAD,1,Oliver Cromwell (British historical figure)
+1 MARLBOROUGH ROAD,1,Duke of Marlborough (British military leader)
+1 GLADSTONE ROAD,1,William Gladstone (British Prime Minister)
+1 DISRAELI ROAD,1,Benjamin Disraeli (British Prime Minister)
+1 PEEL STREET,1,Sir Robert Peel (British Prime Minister)
+1 PALMERSTON ROAD,1,Lord Palmerston (British Prime Minister)
+1 RUSSELL ROAD,1,Lord John Russell (British Prime Minister)
+1 MELBOURNE ROAD,1,Lord Melbourne (British Prime Minister)
+1 GREY STREET,1,Earl Grey (British Prime Minister)
+1 PITT STREET,1,William Pitt (British Prime Minister)
+1 WALPOLE ROAD,1,Robert Walpole (British Prime Minister)
+1 GORDON ROAD,1,General Gordon (British military officer)
+1 KITCHENER ROAD,1,Lord Kitchener (British military officer)
+1 BADEN POWELL ROAD,1,Robert Baden-Powell (British military officer)
+1 MONTGOMERY ROAD,1,Field Marshal Montgomery (British military officer)
+1 ALEXANDER ROAD,1,Field Marshal Alexander (British military officer)
+1 WAVELL ROAD,1,Field Marshal Wavell (British military officer)
+1 SLIM ROAD,1,Field Marshal Slim (British military officer)
+1 MOUNTBATTEN ROAD,1,Lord Mountbatten (British royal naval officer)
+1 BEATTY ROAD,1,Admiral Beatty (British naval officer)
+1 JELLICOE ROAD,1,Admiral Jellicoe (British naval officer)
+1 FISHER ROAD,1,Admiral Fisher (British naval officer)
+1 DRAKE ROAD,1,Sir Francis Drake (British naval officer)
+1 HAWKINS ROAD,1,Sir John Hawkins (British naval officer)
+1 FROBISHER ROAD,1,Sir Martin Frobisher (British naval officer)
+1 GILBERT ROAD,1,Sir Humphrey Gilbert (British naval officer)
+1 RALEIGH ROAD,1,Sir Walter Raleigh (British explorer)
+1 COOK ROAD,1,Captain James Cook (British explorer)
+1 VANCOUVER ROAD,1,Captain George Vancouver (British explorer)
+1 HUDSON ROAD,1,Henry Hudson (British explorer)
+1 FRANKLIN ROAD,1,Sir John Franklin (British explorer)
+1 SCOTT ROAD,1,Captain Robert Falcon Scott (British explorer)
+1 SHACKLETON ROAD,1,Sir Ernest Shackleton (British explorer)
+1 LIVINGSTONE ROAD,1,David Livingstone (British explorer)
+1 STANLEY ROAD,1,Henry Morton Stanley (British explorer)
+1 BURTON ROAD,1,Sir Richard Burton (British explorer)
+1 SPEKE ROAD,1,John Hanning Speke (British explorer)
+1 BAKER ROAD,1,Sir Samuel Baker (British explorer)
+1 PARK ROAD,1,Mungo Park (British explorer)
+1 BRUCE ROAD,1,James Bruce (British explorer)
+1 CLIVE ROAD,1,Robert Clive (British colonial administrator)
+1 HASTINGS ROAD,1,Warren Hastings (British colonial administrator)
+1 CORNWALLIS ROAD,1,Lord Cornwallis (British colonial administrator)
+1 CURZON ROAD,1,Lord Curzon (British colonial administrator)
+1 MINTO ROAD,1,Lord Minto (British colonial administrator)
+1 HARDINGE ROAD,1,Lord Hardinge (British colonial administrator)
+1 CHELMSFORD ROAD,1,Lord Chelmsford (British colonial administrator)
+1 READING ROAD,1,Lord Reading (British colonial administrator)
+1 IRWIN ROAD,1,Lord Irwin (British colonial administrator)
+1 WILLINGDON ROAD,1,Lord Willingdon (British colonial administrator)
+1 LINLITHGOW ROAD,1,Lord Linlithgow (British colonial administrator)
+1 WAVELL AVENUE,1,Lord Wavell (British colonial administrator)
+1 MOUNTBATTEN AVENUE,1,Lord Mountbatten (British colonial administrator)
+1 DALHOUSIE ROAD,1,Lord Dalhousie (British colonial administrator)
+1 LAWRENCE ROAD,1,Lord Lawrence (British colonial administrator)
+1 MAYO ROAD,1,Lord Mayo (British colonial administrator)
+1 NORTHBROOK ROAD,1,Lord Northbrook (British colonial administrator)
+1 LYTTON ROAD,1,Lord Lytton (British colonial administrator)
+1 RIPON ROAD,1,Lord Ripon (British colonial administrator)
+1 DUFFERIN ROAD,1,Lord Dufferin (British colonial administrator)
+1 LANSDOWNE ROAD,1,Lord Lansdowne (British colonial administrator)
+1 ELGIN ROAD,1,Lord Elgin (British colonial administrator)
+1 HARDINGE AVENUE,1,Lord Hardinge (British colonial administrator)
+1 CHELMSFORD AVENUE,1,Lord Chelmsford (British colonial administrator)
+1 READING AVENUE,1,Lord Reading (British colonial administrator)
+1 IRWIN AVENUE,1,Lord Irwin (British colonial administrator)
+1 WILLINGDON AVENUE,1,Lord Willingdon (British colonial administrator)
+1 LINLITHGOW AVENUE,1,Lord Linlithgow (British colonial administrator)
+1 AUCHINLECK ROAD,1,Field Marshal Auchinleck (British military officer)
+1 WAVELL CRESCENT,1,Field Marshal Wavell (British military officer)
+1 MOUNTBATTEN CRESCENT,1,Lord Mountbatten (British royal naval officer)
+1 PERCIVAL ROAD,1,Lieutenant-General Percival (British military officer)
+1 HEATH ROAD,1,Lieutenant-General Heath (British military officer)
+1 BROOKE ROAD,1,Field Marshal Brooke (British military officer)
+1 ALEXANDER AVENUE,1,Field Marshal Alexander (British military officer)
+1 MONTGOMERY AVENUE,1,Field Marshal Montgomery (British military officer)
+1 SLIM AVENUE,1,Field Marshal Slim (British military officer)
+1 HARDING ROAD,1,Field Marshal Harding (British military officer)
+1 TEMPLER ROAD,1,Field Marshal Templer (British military officer)
+1 BOURNE ROAD,1,General Bourne (British military officer)
+1 DOBBIE ROAD,1,General Dobbie (British military officer)
+1 BOND ROAD,1,General Bond (British military officer)
+1 MALTBY ROAD,1,Air Chief Marshal Maltby (British air force officer)
+1 PULFORD ROAD,1,Air Vice-Marshal Pulford (British air force officer)
+1 BABINGTON ROAD,1,Air Commodore Babington (British air force officer)
+1 SPOONER ROAD,1,Rear Admiral Spooner (British naval officer)
+1 LAYTON ROAD,1,Admiral Layton (British naval officer)
+1 PHILLIPS ROAD,1,Admiral Phillips (British naval officer)
+1 PALLISER ROAD,1,Admiral Palliser (British naval officer)
+1 SOMERVILLE ROAD,1,Admiral Somerville (British naval officer)
+1 CUNNINGHAM ROAD,1,Admiral Cunningham (British naval officer)
+1 FRASER ROAD,1,Admiral Fraser (British naval officer)
+1 TOVEY ROAD,1,Admiral Tovey (British naval officer)
+1 RAMSAY ROAD,1,Admiral Ramsay (British naval officer)
+1 VIAN ROAD,1,Admiral Vian (British naval officer)
+1 POWER ROAD,1,Admiral Power (British naval officer)
+1 WALKER ROAD,1,Captain Walker (British naval officer)
+1 MACINTYRE ROAD,1,Captain MacIntyre (British naval officer)
+1 WEMYSS ROAD,1,Admiral Wemyss (British naval officer)
+1 KEYES ROAD,1,Admiral Keyes (British naval officer)
+1 TYRWHITT ROAD,1,Commodore Tyrwhitt (British naval officer)
+1 GOODENOUGH ROAD,1,Commodore Goodenough (British naval officer)
+1 LIGHT ROAD,1,Commodore Light (British naval officer)
+1 BROCK ROAD,1,Commodore Brock (British naval officer)
+1 COWAN ROAD,1,Admiral Cowan (British naval officer)
+1 MADDEN ROAD,1,Admiral Madden (British naval officer)
+1 FIELD ROAD,1,Admiral Field (British naval officer)
+1 CHATFIELD ROAD,1,Admiral Chatfield (British naval officer)
+1 POUND ROAD,1,Admiral Pound (British naval officer)
+1 CORK ROAD,1,Admiral Cork (British naval officer)
+1 NORTH ROAD,1,Admiral North (British naval officer)
+1 FORBES ROAD,1,Admiral Forbes (British naval officer)
+1 WARBURTON LEE ROAD,1,Captain Warburton-Lee (British naval officer)
