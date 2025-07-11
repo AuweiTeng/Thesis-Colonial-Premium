@@ -1,0 +1,31 @@
+Street_Address,British_Origin,Origin_Reference
+Raffles Place,True,Named after Sir Thomas Stamford Raffles (1781-1826) - British colonial administrator and founder of modern Singapore
+Orchard Road,True,Named after the nutmeg and pepper plantations that once lined the road during British colonial period
+Robinson Road,True,Named after Sir William Robinson - British colonial governor of Singapore (1877-1880)
+Cecil Street,True,Named after Robert Cecil - British colonial administrator
+Shenton Way,True,Named after Captain John Shenton - British colonial official and merchant
+Collyer Quay,True,Named after Captain George Collyer - British Royal Navy officer
+Fullerton Road,True,Named after Robert Fullerton - first British Governor of Straits Settlements (1826-1830)
+Stamford Road,True,Named after Sir Thomas Stamford Raffles - British colonial administrator
+Coleman Street,True,Named after George Drumgoole Coleman - British colonial architect
+Connaught Drive,True,Named after Duke of Connaught - British royal family member
+Telok Ayer Street,False,Means 'water bay' in Malay - predates British colonization
+Boat Quay,False,Descriptive name for the boat landing area along Singapore River
+Chinatown,False,Named after the Chinese community settlement
+Kampong Glam,False,Named after the Gelam tree (Melaleuca cajuputi) in Malay
+Tanjong Pagar,False,Means 'cape of stakes' in Malay - predates British colonization
+Bugis Street,False,Named after the Bugis people from Sulawesi
+Arab Street,False,Named after the Arab trading community
+Little India,False,Named after the Indian community settlement
+Serangoon Road,False,Named after the Serangoon River - from Malay 'Serangoon' meaning a type of stork
+Geylang Road,False,Named after the Geylang area - from Malay 'kilang' meaning factory
+Bencoolen Street,True,Named after Bencoolen (now Bengkulu) - British colonial settlement in Sumatra
+Sophia Road,True,Named after Sophia Raffles - wife of Sir Thomas Stamford Raffles
+Bras Basah Road,False,Means 'wet rice' in Malay - refers to rice drying activities
+High Street,True,Common British street name pattern used in colonial urban planning
+North Bridge Road,True,Named after the bridge built during British colonial period
+South Bridge Road,True,Named after the bridge built during British colonial period
+Eu Tong Sen Street,False,Named after Eu Tong Sen - prominent Chinese businessman
+Havelock Road,True,Named after Sir Henry Havelock - British general during Indian Rebellion of 1857
+Clemenceau Avenue,False,Named after Georges Clemenceau - French statesman (not British)
+Dhoby Ghaut,False,From Hindi 'dhobi ghat' meaning washing place - predates British but used during colonial period
