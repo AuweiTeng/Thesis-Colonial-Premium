@@ -12,6 +12,9 @@ plt.style.use('default')
 sns.set_palette("husl")
 
 def describe(rdd_data, bandwidth):
+    """ input rdd_data 
+    input bandwith in meters
+    returns the descriptives stats"""
     
     rdd_sample = rdd_data[abs(rdd_data['distance']) <= bandwidth]
 
